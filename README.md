@@ -11,7 +11,7 @@ Esse foi um projeto que eu aprendi e desenvolvi no módulo CSS no <a href="https
 </p>
 
 ## Público alvo 🚀
-Esse projeto pode ser utilizado por empresas que buscam otimizar o processo de compra online, seja via desktop ou mobile. Afinal, atualmente é muito importante para os pequenos e grandes negócios a exposição ao virtual. A utilização de um website pode potencializar vendas, além de aumentar a visibilidade da empresa.
+Esse projeto pode ser utilizado por empresas que buscam otimizar o processo de compra online. Afinal, atualmente é muito importante para os pequenos e grandes negócios a exposição ao virtual. A utilização de um website pode potencializar vendas, além de aumentar a visibilidade da empresa.
 
 ## Versões
 Esse projeto foi inicialmente desenvolvido para desktop mas após aplicar os parametros de responsabilidade, foi possível torná-lo compatível com versões mobile.
